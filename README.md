@@ -21,7 +21,11 @@ _May 2017 - Current_
    PTC (Positive Train Control) is a multi-billion dollar, railroad industry-wide effort to equip freight
 and passenger train fleets with an onboard system that will actively and safely stop trains if it detects
 unsafe conditions (speeding, incorrect routes, etc) by using advanced GPS on locomotives and detailed
-geospatial files.  
+geospatial files.   
+
+   _Achieving Goals_ - I have been successful in increasing the geospatial processing efficiency by multithreading production work flows to cut weeks off production times. I have exceeded every federal
+and internal corporate goal set. I have led the PTC GIS team to be ahead of schedule and to become
+the ’Team to Catch’ across the PTC landscape at NS. I reduced corporate risk exposure by surpassing the federally mandated, 51% completion milestone a full 8 months ahead of the deadline.  
 
   _Project Management_ - I realigned the geospatial file production portion of this federally mandated
 project from 3 months behind schedule to 6 months ahead of schedule. I exploit and create efficiencies
@@ -38,11 +42,7 @@ survey accuracy and planning, all feature attribution and geolocation accuracy a
 of rail corridor. I ensure the accurate and expeditious change management of the underlying geospatial
 data. I maintain data standards, compatibility and synchronization with internal train dispatching
 systems, engineering systems, and other internal business partners all while ensuring interoperability
-of NS geospatial data with our external railroad partners, including CSX, BNSF, UP, and KCS Railroads, to ensure we are interoperable across the North American rail network.  
-
-   _Achieving Goals_ - I have been successful in increasing the geospatial processing efficiency by multithreading production work flows to cut weeks off production times. I have exceeded every federal
-and internal corporate goal set. I have led the PTC GIS team to be ahead of schedule and to become
-the ’Team to Catch’ across the PTC landscape at NS. I reduced corporate risk exposure by surpassing the federally mandated, 51% completion milestone a full 8 months ahead of the deadline.  
+of NS geospatial data with our external railroad partners, including CSX, BNSF, UP, and KCS Railroads, to ensure we are interoperable across the North American rail network.   
 
 **GIS SOFTWARE DEVELOPER**    
 _Norfolk Southern Corporation. - Engineering - Atlanta, GA._  
