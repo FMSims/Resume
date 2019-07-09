@@ -16,8 +16,8 @@ Resume and Examples of Work from FMSims
  
 **GIS PTC PROJECT MANAGER**  
 _Norfolk Southern Corporation. - Engineering - Atlanta, GA._   
-_May 2017 - Current_  
----------------------     
+_May 2017 - Current_   
+    
    PTC (Positive Train Control) is a multi-billion dollar, railroad industry-wide effort to equip freight
 and passenger train fleets with an onboard system that will actively and safely stop trains if it detects
 unsafe conditions (speeding, incorrect routes, etc) by using advanced GPS on locomotives and detailed
@@ -47,15 +47,14 @@ of NS geospatial data with our external railroad partners, including CSX, BNSF, 
 **GIS SOFTWARE DEVELOPER**    
 _Norfolk Southern Corporation. - Engineering - Atlanta, GA._  
 _May 2016 - May 2017_  
-----------------------   
+ 
    _ESRI & .NET Software Development_ - I leveraged my 11 years of geospatial development experience to build custom GIS software to aid the NS Engineering Department as part of the roll out of the Positive Train Control Project. I utilized Oracle Spatial, SQL, Python scripts, C#, the .NET Framework, and ESRI’s ArcGIS Runtime SDK for .NET to develop custom ArcMap extensions and standalone programs. These suites were designed to ensure the highest data quality standards in the geospatial files used on the locomotives in PTC. I wrote custom scripts and software packages to QA/QC the output of other geospatial tools, automate processing of large geospatial datasets, and help GIS analysts be more efficient in their day-to-day workflows.  
 
  
 **PRESIDENT-FOUNDER-DEVELOPER**  
 _SimSpatial GIS Consulting LLC - Atlanta, GA._  
 _October 2014 - Current_  
--------------------------     
-
+   
    _Health GIS_ - I founded a boutique GIS consulting firm and served as the primary executive officer, project manager, and GIS developer. I worked primarily with non-profit, global, public health agencies across the US and UK helping them save money by migrating away from ESRI ArcGIS technology to OpenSource GIS solutions or streamlining their existing geospatial workflows. Past partners include The Task Force for Global Health, RTI International, The International Trachoma Initiative, The Bill and Melinda Gates Foundation, The Carter Center, and The London School of Hygiene and Tropical Medicine. I took customer business needs and turned them into concrete GIS software solutions.  
    
    _Open Source, JavaScript, & Cloud GIS Software Development_ - I successfully planned, developed, and migrated my client’s geodata to cloud-based geodatabases such as CartoDB.com, Google Cloud Services, or Amazon AWS. I developed custom mapping websites for my clients using HTML5, JavaScript, and Python. I have utilized the ArcGIS JavaScript API, Google Maps JavaScript API, CartoDB JavaScript API, CartoDB SQL API, MapBox JavaScript API, Leaflet.js, D3.js, and other modern web development libraries and technologies to help my customers get the best user experience and added value from their online mapping products and geospatial data. I provided excellent customer service and support before, during, and after all my contracts and as a result I have developed many strong business relationships that result in being viewed as a trusted geospatial professional and expert in the health geospatial data technologies industry.  
@@ -64,8 +63,7 @@ Website:[Simspatial.com](https://SimSpatial.com "Simspatial Consulting Home")
 
 **GIS MANAGER**  
 _Florida Department of Health - Division of Disease Control and Health Protection - Tallahassee, FL_    
-_September 2013 - October 2014_  
--------------------------------  
+_September 2013 - October 2014_   
 
    _Management Experience_ - I was responsible for all budgeting, purchasing, licensing, installations, and support of GIS, geocoding, and other geospatial software and hardware used at the Florida Department of Health (FDOH). This included managing ArcGIS Desktop, Server, SDE, and ArcGIS Online licenses and accounts for 350+ users across all 67 county health departments and all divisions in the central office. I successfully completed every project on time and on budget to migrate existing FDOH web maps from the outdated ESRI Adobe Flex API to the modern ESRI JavaScript API, integrated ArcGIS Online into internal business workflows, and established an internal, Health GIS Sensitive Data Plan and data portal. I also served as President of the FDOH GIS Coordinating Committee which coordinates, plans, and executes department-wide GIS and geospatial technology strategic plans and processes. I also managed the content and datasets on the production and test ArcSDE enterprise geodatabase servers and GIS web servers.  
    
@@ -75,8 +73,7 @@ _September 2013 - October 2014_
 
 **GIS ANALYST**    
 _Florida Department of Health - Division of Disease Control and Health Protection - Tallahassee, FL_  
-_May 2013 - September 2013_  
----------------------------   
+_May 2013 - September 2013_    
 
    _FEMA Certification_ - I received FEMA NIMS and ICS (IS-100b, ICS-700A) certifications for emergency preparedness and response. I also served as part of the Department of Health ESF-8 Team during local, state, and national disasters.  
    _ESRI Enterprise Experience_ - I was responsible for the design, maintenance, customization, testing, and optimization of several ArcGIS Server and ArcGIS Online web-based applications using the Adobe Flex and ArcGIS JavaScript APIs. I worked with vendors to ensure technical and data quality goals were achieved in a timely manner. I was also tasked with developing experimental web and mobile mapping apps to serve the needs of the Division of Disease Control and Health Protection; the Bureau of Environmental Health; the Division of Environmental Preparedness and Community Support; and the Bureau of Preparedness and Response. One such experimental application included a rapidly deployed mobile web map that dynamically displayed the locations, characteristics, and operational status of emergency shelters throughout the State of Florida in real time.   
@@ -85,8 +82,8 @@ _May 2013 - September 2013_
    
 **GIS ANALYST**       
 _Citizens Property Insurance Corporation - Corporate Analytics - Tallahassee, FL_   
- _July 2008 - August 2009_
---------------------------     
+ _July 2008 - August 2009_   
+   
    I utilized my expertise in GIS programming, systems, and data modeling to exercise best-inindustry practices for the development and implementation of an enterprise-level, server-based geographic information system as well as web-based mapping applications using the Adobe Flex and Java API’s for ArcGIS Server at the second largest property insurance company by market share (11.41% in 2009) in Florida.  
    
    _Enterprise GIS Development_ - I successfully designed, developed, tested, documented, and deployed custom spatial analysis tools, applications, and other GIS solutions on an ESRI ArcGIS Server and SDE platform. I assisted in the design, modeling, development, and maintenance of the CPIC enterprise/server-based GIS solution as well as the integration with the existing corporate relational database management systems (RDMS) for data interchange solutions.  
@@ -99,16 +96,14 @@ _Citizens Property Insurance Corporation - Corporate Analytics - Tallahassee, FL
 
 **GIS CONSULTANT**  
 _Citizens Property Insurance Corporation - Corporate Analytics - Tallahassee, FL_  
-_January 2007 - May 2007_  
--------------------------     
+_January 2007 - May 2007_       
 
    As a GIS Consultant to the Director of Corporate Analytics I developed a business plan that resulted in the creation of an in-house GIS department and the development of an enterprise-level, server-based GIS to serve multiple business units. I analyzed business unit requirements and the crrent in-house GIS technology, data, and software capabilities as part of a needs assessment. I recommended, and later implemented, a GIS platform using ArcGIS Server as well as the development of a MS SQL Server geodatabase for integration with in-house data flows.    
    
 
 **GRADUATE RESEARCH & TEACHING ASSISTANT**      
 _Florida State University - Department of Geography - Tallahassee, FL_  
-May 2006 - May 2013_   
----------------------     
+May 2006 - May 2013_       
 
    I researched Urban and Physical Geography topics using state-of-the-art satellite remote sensing
 and photogrammetric technologies. I produced geospatial products that answer research questions
