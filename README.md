@@ -1,15 +1,17 @@
 **FMSims Resume**
 =============
 Resume and Examples of Work from FMSims
-## Education
+## Education  
 ---
-*PhD (ABD) - Geography - Florida State University 
-*MS - Geographic Information Systems -  Florida State University - 2006
-*BS - Environmental Studies/Geography - Florida State University - 2005
+*PhD (ABD) - Geography - Florida State University  
 
-## Professional Experience
+*MS - Geographic Information Systems -  Florida State University - 2006  
+
+*BS - Environmental Studies/Geography - Florida State University - 2005  
+
+## Professional Experience  
 ---
-*##NORFOLK SOUTHERN CORP. - Engineering - Atlanta, GA.
+##NORFOLK SOUTHERN CORP. - Engineering - Atlanta, GA.
 *GIS PTC Project Manager . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .May 2017 - Current
 PTC (Positive Train Control) is a multi-billion dollar, railroad industry-wide effort to equip freight
 and passenger train fleets with an onboard system that will actively and safely stop trains if it detects
