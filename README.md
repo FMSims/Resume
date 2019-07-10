@@ -131,7 +131,7 @@ assistants, and student evaluation.
    Mac OS X v10.x; Microsoft Windows 10/7/Vista/Server 2003/XP; Linux; Google Chrome, Unix  
    
 ## Productivity Software    
-   MS Project, MS SharePoint, MS Access, MS Visio, Adobe Photoshop & Creative Suite, GIMP, Blender, Inkscape, CorelDraw.  
+   MS Teams, MS Project, MS SharePoint, MS Access, MS Visio, Adobe Photoshop & Creative Suite, GIMP, Blender, Inkscape, CorelDraw.  
    
 # PROFESSIONAL PRESENTATIONS AND PUBLICATIONS  
 
