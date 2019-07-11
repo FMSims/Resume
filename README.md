@@ -1,6 +1,7 @@
-**FMSims Resume**
+**Frank Michael "Mike" Sims Resume**
 ================
-Resume and Examples of Work from FMSims  
+Summary:
+I am an ESRI Enterprise and Open Source GIS subject matter expert, Project and Product Manager, GIS web developer, GIScience researcher, and Remote Sensing scientist. I started my own GIS consulting company (SimSpatial.com) focusing on open-source GIS and geoweb development. I enjoy new and complex problems that involve data that can be mapped in any space. I jump at opportunities to use new technology and tools to find solutions to geospatial problems. I am always looking for new opportunities to make the world better through maps and data analysis.
 # Education  
 ---
 * **PhD (ABD) - Geography - Florida State University**  
